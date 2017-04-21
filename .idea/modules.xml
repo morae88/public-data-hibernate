@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/public-data-hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/public-data-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/public-data-hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/public-data-hibernate_main.iml" group="public-data-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/public-data-hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/public-data-hibernate_test.iml" group="public-data-hibernate" />
+    </modules>
+  </component>
+</project>
